@@ -18,10 +18,10 @@ It will be as below:
  Orange     | 3        | 0.50  | 1     | 1<br />
  Watermelon | 27       | 0.80  | 3     | 2</pre>
 
--fruit name defines the name of the fruit
--quantity defines the quantity to buy
--price defines the price of one fruit
--total is the amount on which you can get an offer
+-fruit name defines the name of the fruit<br />
+-quantity defines the quantity to buy<br />
+-price defines the price of one fruit<br />
+-total is the amount on which you can get an offer<br />
 -number_to_pay is the number to pay compare to the total
 
 ###  Exemple with apples: 
