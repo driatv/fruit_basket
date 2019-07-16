@@ -1,0 +1,4 @@
+fruit name | quantity | price | total | number_to_pay | number_for_free
+Apple       | 4       | 0.20  | 2     | 1             | 1
+Orange      | 3       | 0.50  | 1     | 1             | 0
+Watermelon  | 27      | 0.80  | 3     | 2             | 1
