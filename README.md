@@ -1,8 +1,8 @@
 # fruit_market
 
 ## How to run the project:
-1- Clone the project<br />
-2- Run command mvn clean install in the good repository<br />
+1- Clone the project: https://github.com/driatv/fruit_basket.git <br />
+2- Run command mvn clean install (or mvn test && mvn clean install) in the good repository<br />
 3- Run command java -jar java -jar target/fruit-market-1.0-SNAPSHOT.jar<br />
 4- See the results.
 
