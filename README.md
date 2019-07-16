@@ -13,10 +13,10 @@ See in the project the file: fruit_basket/src/main/resources/input.txt
 
 It will be as below:
 
- fruit name | quantity | price | total | number_to_pay<br />
+<pre> fruit name | quantity | price | total | number_to_pay<br />
  Apple      | 4        | 0.20  | 2     | 1<br />
  Orange     | 3        | 0.50  | 1     | 1<br />
- Watermelon | 27       | 0.80  | 3     | 2
+ Watermelon | 27       | 0.80  | 3     | 2</pre>
 
 -fruit name defines the name of the fruit
 -quantity defines the quantity to buy
