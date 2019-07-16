@@ -1,9 +1,9 @@
 # fruit_market
 
 ## How to run the project:
-1- Clone the project__
-2- Run command mvn clean install in the good repository__
-3- Run command java -jar java -jar target/fruit-market-1.0-SNAPSHOT.jar__
+1- Clone the project<br />
+2- Run command mvn clean install in the good repository<br />
+3- Run command java -jar java -jar target/fruit-market-1.0-SNAPSHOT.jar<br />
 4- See the results.
 
 
@@ -13,9 +13,9 @@ See in the project the file: fruit_basket/src/main/resources/input.txt
 
 It will be as below:
 
- fruit name | quantity | price | total | number_to_pay__
- Apple      | 4        | 0.20  | 2     | 1__
- Orange     | 3        | 0.50  | 1     | 1__
+ fruit name | quantity | price | total | number_to_pay<br />
+ Apple      | 4        | 0.20  | 2     | 1<br />
+ Orange     | 3        | 0.50  | 1     | 1<br />
  Watermelon | 27       | 0.80  | 3     | 2
 
 -fruit name defines the name of the fruit
