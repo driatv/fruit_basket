@@ -36,8 +36,13 @@ public class Fruit {
     }
 
     public Double getPriceWithReduction() {
-        double priceReduc = (quantity - quantity % total) * numberToPay / total * this.price
-                + this.quantity % total * this.price;
+        double priceReduc;
+        if (total > 1) {
+            priceReduc = (quantity - (quantity / total) * (total - numberToPay)) * price;
+        } else {
+            priceReduc = quantity * price;
+        }
+        // + this.quantity % total * this.price;
         return priceReduc;
     }
 
