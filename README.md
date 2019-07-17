@@ -4,12 +4,12 @@
 1- Clone the project: git clone https://github.com/driatv/fruit_basket.git <br />
 2- Run command mvn clean install in the good repository<br />
 3- Run command java -jar java -jar target/fruit-market-1.0-SNAPSHOT.jar<br />
-4- See the results.
+4- Look at the results in your terminal.
 
 
 ## To modify the quantity/price/reductions:
 
-See in the project the file: fruit_basket/src/main/resources/input.txt
+In the project, look at the file: fruit_basket/src/main/resources/input.txt
 
 It will be as below:
 
@@ -24,7 +24,12 @@ It will be as below:
 -total is the amount on which you can get an offer<br />
 -number_to_pay is the number to pay compare to the total
 
-###  Exemple with apples: 
-You will buy 4 Apple at the unit price of 0.20€.
-But you have a reduction. Every two apples, you get one offered.
-So you should pay 0.40€ instead of 0.80€.
+###  Example with apples: 
+If you buy 4 Apples at 0.20€ each with an offer: buy one get one free, you should pay 0.40€ instead of 0.80€.
+
+
+
+
+##  Next step
+
+User should not have to compile project so the file input.txt should be alterable and taken into account.
