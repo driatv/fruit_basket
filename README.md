@@ -21,7 +21,7 @@ It will be as below:
 -fruit name defines the name of the fruit<br />
 -quantity defines the quantity to buy<br />
 -price defines the price of one fruit<br />
--total is the amount on which you can get an offer<br />
+-total is the amount on which you can get an offer. If you don't want any offers on a fruit, just put the total to 1 or 0.<br />
 -number_to_pay is the number to pay compare to the total
 
 ###  Example with apples: 
